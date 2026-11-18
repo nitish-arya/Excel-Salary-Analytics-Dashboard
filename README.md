@@ -3,7 +3,7 @@
 An interactive HR salary dashboard built in Excel using Pivot Tables, Pivot Charts and Slicers.
 
 ## Preview
-![Salary Analytics Dashboard](Salary_Dashboard.png)
+![Salary Analytics Dashboard](Salary_Analytics_Dashboard.png)
 
 ## What the dashboard shows
 - Salary share by gender, city and department
